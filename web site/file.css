@@ -1,0 +1,147 @@
+.twitterImages{
+    border-radius: 50%;
+    width: 80px;
+}
+.bg-light{
+    background-color: #c7e5fc !important;
+}
+
+.navbar.navbar-expand-lg.navbar-light.bg-light{
+    margin-bottom: 0;
+    box-shadow: 2px 2px 10px #97a5ad;
+}
+.navbar-light.navbar-nav.nav-link{
+    color: #ffffff !important;
+}
+.nav-link{
+    margin-bottom: 0;
+    font-size: 1.3rem;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-weight: bold;
+}
+.navbar-brand{
+    margin-bottom: 0;
+}
+.Title{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: rgb(27, 83, 189);
+    font-weight: bold;
+}
+
+.Hr{
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    height: 10px;
+	
+    border-top: 1px dashed #335696;
+    box-shadow: 2px 2px 5px #24282b;
+	
+}
+
+
+.navbar-collapse{
+    justify-content: flex-end;
+    margin-right: 20px;
+}
+.navbar-brand{
+    margin-left: 20px;
+}
+
+.atTwitters{
+    margin-top: 0;
+    margin-bottom: 0;  
+}
+
+.TeamSection{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    width: 70%;
+
+}
+
+p{
+    font-size: 17px;
+}
+#myBtn:hover {
+    background-color: rgb(106, 144, 214);
+  }
+#myBtn {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 10px;
+    z-index: 99;
+    font-size: 18px;
+    border: none;
+    outline: none;
+    background-color: rgb(142, 163, 202);
+    color: white;
+    cursor: pointer;
+    padding: 8px;
+    border-radius: 4px;
+  }
+a {
+    color:#00B6F1;
+    text-decoration: none;
+  }
+
+.FaqSection{
+    width: 70%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.RoadmapSection{
+    width: 70%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.FooterSection{
+    text-align: center;
+}
+
+.question{
+    font-weight: 600;
+}
+*{
+    margin-bottom: 5px;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+body{
+    background-color: #eaf6ff;  /* #eaf6ff */
+}
+
+.SneakPeakImages{
+    width: 50%;
+    border-radius: 5%;
+    box-shadow: 2px 2px 10px #776f6f;
+}
+
+.col{
+    text-align: center;
+    vertical-align: center;
+}
+.OriginSection{
+    text-align: center;
+    padding-left: 15%;
+    padding-right: 15%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+div.col{
+    margin-top: auto;
+    margin-bottom: auto;
+}
